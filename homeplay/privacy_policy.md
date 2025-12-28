@@ -215,8 +215,8 @@ We encourage you to review this policy periodically.
 
 If you have any questions about this Privacy Policy or our privacy practices, please contact us:
 
-**Email:** justin@futuresoftware.io  
-**Developer:** Horizon Techvision
+**Email:** matei.dediu@futuresoftware.io  
+**Developer:** Future Software Solutions
 
 ---
 
